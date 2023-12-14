@@ -1,0 +1,47 @@
+ody{background-color: rgb(195, 128, 69);
+}
+
+.profile-picture{
+   width: 100%;
+   height: auto;
+   border-radius:100%;
+   margin-top: 20%;
+}
+
+.title{
+   font-family: monospace; text-align: center; margin-top: 200px; min-width: fit-content;
+}
+
+.sub-title{
+   font-family: monospace; text-align: center;min-width: auto;
+}
+
+.sub-title-about{
+  font-family: monospace; text-align: left;
+}
+
+.container-fluid{
+   background-color: blanchedalmond;min-width: auto;
+}
+
+.about-title{
+   font-family: monospace;text-align: center; margin-top: 30px; min-width: auto;
+}
+
+.col-1{background-color:rgb(195, 128, 69);}
+
+
+.about-2{background-color: blanchedalmond;}
+
+.about-title-2{margin-top: 2px;font-family: monospace;color:blanchedalmond;}
+
+.col-2{background-color: black;}
+
+.works-1{height: 50%; width: auto;}
+
+.col{align-self: center;}
+
+.contact{background-color: rgb(195, 128, 69);}
+
+.fa-brands{text-decoration: none; color: inherit;
+}
